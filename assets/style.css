@@ -6,9 +6,8 @@ img {
     background-image: aqua;
 }
 .container{
-    background-color: red;
-    margin: 30px;
+   }
+.main-bg-clr{
+    background-image: url("coolbackground.jpg");
 }
-#biggercontainer{
-    background-color: seagreen;
-}
+
