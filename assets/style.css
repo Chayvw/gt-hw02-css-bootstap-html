@@ -1,13 +1,3 @@
-img {
-    width: auto;
-
+h1{
+    font-style:georgia;
 }
-.main-bg{
-    background-image: aqua;
-}
-.container{
-   }
-.main-bg-clr{
-    background-image: url("coolbackground.jpg");
-}
-
