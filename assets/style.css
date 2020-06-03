@@ -1,0 +1,14 @@
+img {
+    width: auto;
+
+}
+.main-bg{
+    background-image: aqua;
+}
+.container{
+    background-color: red;
+    margin: 30px;
+}
+#biggercontainer{
+    background-color: seagreen;
+}
