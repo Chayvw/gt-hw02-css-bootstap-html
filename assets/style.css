@@ -1,13 +1,30 @@
-img {
-    width: auto;
+h1{
+    font-size: x-large;
+    color: #bba748;
+}
 
+
+body{
+    background-image: url("../assets/images/coolbackground.jpg");
 }
-.main-bg{
-    background-image: aqua;
+#aboutme-img{
+    float: left;
+    margin-right: 20px;
+
+        max-width: 50px;
+        height: auto;
 }
-.container{
-   }
-.main-bg-clr{
-    background-image: url("coolbackground.jpg");
+
+#textbox{
+    position: absolute;
+    bottom: 0px;
+}
+#img-div{
+    margin: 10px;
+}
+.class{
+    width: 20%;
+    height: 200px;
+    margin: 20px;
 }
 
