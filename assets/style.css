@@ -9,15 +9,17 @@ body{
 }
 #aboutme-img{
     float: left;
-    margin-right: 20px;
+    width: 200px;
+    margin: 0 20px 10px 0;
 
-        max-width: 50px;
-        height: auto;
+       
 }
-
-#textbox{
+.img-fluid{
+    margin: 20px auto;
+}
+/* #textbox{
     position: absolute;
-    bottom: 0px;
+    bottom: 0px; */
 }
 #img-div{
     margin: 10px;
@@ -27,4 +29,3 @@ body{
     height: 200px;
     margin: 20px;
 }
-
